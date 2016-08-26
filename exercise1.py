@@ -1,4 +1,4 @@
-from ecb_lib import encrypt_image_file, decrypt_image_file
+from cp_ecb import encrypt_image_file, decrypt_image_file
 
 
 # A key to use for the Caesar Cipher
